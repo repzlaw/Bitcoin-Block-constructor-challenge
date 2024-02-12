@@ -1,5 +1,5 @@
 {
-    "name": "block-constructor",
+    "name": "bitcoin-block-constructor-challenge",
     "version": "1.0.0",
     "description": "Btrust block constructor challenge solution",
     "main": "dist/index.js",
@@ -17,7 +17,7 @@
         "type": "git",
         "url": "git+ssh://git@github.com/IdrisAkintobi/block-constructor.git"
     },
-    "author": "Idris Akintobi",
+    "author": "David Ibitoye",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/IdrisAkintobi/block-constructor/issues"
